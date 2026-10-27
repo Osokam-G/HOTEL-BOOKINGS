@@ -4,7 +4,6 @@ I built this project to explore hotel bookings and see how often guests complete
 
 <img width="1346" height="751" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/24b805c4-a504-4ad0-8ffc-a265cf7ba349" />
 
-
 ## About the project
 
 The dashboard looks at bookings for City Hotels and Resort Hotels. It includes booking totals, reservation outcomes, comparisons by country and hotel type, and booking counts by arrival month.
